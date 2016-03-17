@@ -1,0 +1,42 @@
+*{margin:0;padding:0}
+body{width:100%;background:rgb(222, 222, 222);font-family: "microsoft yahei";}
+li{list-style:none}
+.clear{clear:both}
+#header{height:60px;overflow:hidden;background-color:#584646}
+#header img{float:left;padding:5px;}
+#header  ul{float:right}
+#header  li{height:50px;line-height:50px;padding:5px 20px;float:left;}
+#header  li a{color:#fff}
+#header  li a:hover{color:#888}
+#content{padding:20px}
+.post{border:1px solid rgb(203, 203, 203);margin-bottom:20px;background-color:#fff;padding:20px;border-bottom:2px solid rgb(132, 132, 132);border-right:2px solid rgb(132, 132, 132)}
+.post h2{font-size:22px;font-weight:bolder;padding:10px 0}
+.post h3{font-size:18px;font-weight:900;padding:10px 0;color:#555}
+.post p{margin-bottom:10px;text-indent:2em}
+.post img{padding:10px 0;    height: auto;
+    max-width: 100%;}
+.post .zuozhe{font-size:12px;padding:10px 0;margin-bottom:10px;color:#555}
+.post li{padding:5px}
+.pic p{border: 1px solid rgb(203, 203, 203);padding: 10px;width: 250px;text-align: center;}
+.pic img{width:200px;height:auto}
+.post ol{padding: 0 0 10px 40px;}
+#sidebar{padding:0 40px 20px 20px;}
+.side{border:1px solid rgb(203, 203, 203);margin-bottom:20px;background-color:#fff;padding:20px;border-bottom:2px solid rgb(132, 132, 132);border-right:2px solid rgb(132, 132, 132)}
+.side h2{border-left:2px solid #888;padding:5px;font-size:18px}
+.side form label{width: 30%;display: inline-block;text-align: right;    float: left;}
+.side form .notice{    padding-left: 14%;
+color: #888;    overflow: hidden;}
+.side p{text-align: left;
+padding: 10px;
+font-size: 14px;}
+form .submit{width: 100%;
+height: 30px;
+background-color: rgb(51, 85, 208);
+border: none;color:#fff;font-size: 20px;    border-radius: 5px;}
+table{width:100%;    border-collapse: collapse;}
+table th ,table td{border: 1px solid #888;padding:5px}
+table th{background-color:#000;color:#fff}
+table .tootle{background-color:#888}
+table .tootle td{color:#000;font-weight:bolder}
+#footer{height:100px;background-color:#000;text-align:center;color:#fff}
+#footer p{line-height:100px;overflow:hidden}
