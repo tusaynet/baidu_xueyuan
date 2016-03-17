@@ -1,0 +1,17 @@
+*{margin:0;padding:0}
+body{background:#fff;font-family: "microsoft yahei";margin:20px;border:1px solid #999}
+li{list-style:none;}
+a{text-decoration:none}
+.clear{clear:both}
+#content{padding:20px;background:#eee;overflow: hidden;}
+.left{width:198px;border:1px solid #999;float:left;background-color:#fff}
+.left img{width:80px;height:80px;padding:20px;float:left}
+.left p{margin-left: 120px;margin-top: 20px;}
+.center{margin-left: 220px;margin-right:140px;padding:20px;border:1px solid #999;background-color:#fff}
+.center h2{padding: 10px 0;font-size: 18px;font-weight: bolder;}
+.right{width:118px;border:1px solid #999;float:right;background-color:#fff;}
+.right ul{padding:20px;padding-bottom:0}
+.right ul img{margin-bottom:20px}
+
+.right img{width:80px;height:80px;}
+
