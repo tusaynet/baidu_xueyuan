@@ -1,0 +1,22 @@
+*{margin:0;padding:0}
+body{background:#fff;font-family: "microsoft yahei";}
+#content{height:200px;width:400px;background:#ccc;position:absolute;top:50%;right:50%;margin-right: -200px; margin-top:-100px;
+overflow: hidden;}
+.top,.bottom{width: 100px;
+    height: 100px;
+    background: #fc0;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+    border-radius: 50px;}
+.top{
+position: relative;
+    top: -50px;
+    left: -50px;
+}
+.bottom{
+    position: relative;
+    bottom: -50px;
+    right: -350px;	
+}
+
+
