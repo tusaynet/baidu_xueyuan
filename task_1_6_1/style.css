@@ -1,0 +1,58 @@
+*{margin:0;padding:0}
+body{background:#eee;font-family: "microsoft yahei";}
+li{list-style:none;}
+a{text-decoration:none}
+.clear{clear:both}
+#header{max-width: 890px;padding:0 45px;height: 60px;margin: 0 auto;background-color: #fff;}
+.logo{border-bottom: 2px solid #938E8C;    height: 58px; overflow:hidden}
+.logo img{height:58px}
+.logo p{float: right;font-size:9px;color:#D45D5C; padding-top: 40px;}
+#content{max-width: 890px;padding:35px 45px;height: auto;margin: 0 auto;background-color: #fff;overflow:hidden}
+.section1{overflow:hidden}
+.section1 .slide{width:640px;height:301px;overflow:hidden;float:left}
+.section1 .slide  img{width:640px;height:301px;overflow:hidden;}
+.section1 .about{width:200px;height:300px;float:right;border-top:2px solid #CC8091;padding:1px}
+.section1 .about h2{font-size: 13px;height:30px;font-weight: normal; margin-top: 6px;text-decoration:underline}
+.section1 .about h2 span{font-size: 18px;font-weight: bolder;}
+.section1 .about h3{font-size: 13px;height:30px;font-weight: normal;text-decoration:underline}
+.section1 .about h3 span{font-size: 18px;font-weight: bolder;}
+.section1 .about p{font-size: 9px;height:20px;line-height:10px}
+.section1 .about .num-lager{font-size: 92px;color:#75B86B ;font-style: oblique;height: 165px;line-height: 165px;}
+.section1 .about .num-mid{font-size: 44px;color:#CC8091 ;height: 44px;line-height: 44px;float: left;}
+.section1 .about .num-other{overflow:hidden;height:44px;}
+.section1 .about .num2{color: #CC8091;height: 11px;line-height: 11px;margin-bottom: 5px;padding-top: 16px;}
+.section1 .about .num-small{font-size: 6px;color: #000; ;height: 7px;line-height: 7px;}
+.section2{margin:35px 0 42px 0;overflow:hidden;}
+.section2 .what{width:230px;height:178px;float: left;margin-right:30px;}
+.section2 h2{height:32px;line-height:32px;font-size:16px;text-decoration:underline}
+.section2 p{height:146px;line-height:16px;font-size:12px;}
+.section2 .what h2{color:#418C59;}
+.section2 .when{width:204px;height:178px;float: left;margin-right:30px}
+.section2 .when h2{color:#D2994F;}
+.section2 .how{width:133px;height:178px;float: left;}
+.section2 .how h2{color:#CC7680;}
+.section2 .how p{height:60px;line-height:20px;overflow:hidden;margin-bottom:18px;}
+.section2 .how .how-what{    height: 23px;line-height: 23px;overflow: hidden;margin-bottom: 0;}
+.section2 .how .how-what span{color:#DF9897}
+.section3{padding-top: 30px;overflow:hidden}
+.section3 .se-left{width:417px;float:left;overflow:hidden}
+.section3 .se-left h2 img{width:415px;height:154px;padding:0 1px 15px 1px;}
+.section3 .se-left .se-content p{height: 425px;line-height:15.7778px;font-size: 12px;padding: 12px 0;}
+.section3 .se-left .se-content span{float: left;font-size:68px;height:70px;padding:0 8px 8px 0;color:#F5E327}
+.section3 .se-left .se-content img{float: right;margin:24px 6px 16px 22px}
+.section3 .se-right{float: right;width:458px;}
+.section3 .se-right .slide-2{width:458px;height:257px;overflow:hidden}
+.section3 .se-right img{width:458px;height:257px;overflow:hidden}
+.section3 .se-right .news-lists{margin-top:30px;height:94px;background-color:#EEEDD6;font-size:16px;padding:32px 25px;}
+.section3 .se-right .news-lists li{line-height:31.33px;    overflow: hidden;}
+.section3 .se-right .news-lists li span{border-left: 10px solid transparent;border-right: 10px solid transparent;border-bottom: 10px solid #10446B;display: inline-block;    margin: 0 8px;}
+.section3 .se-right .Message img{width:260px;height:175px;float:left;    padding-right: 16px;}
+.section3 .se-right .Message p{ height: 135px;background-color: #EEEDD6;padding-right: 20px;padding-bottom: 40px;line-height: 21px;font-size: 11px;}
+.section3 .se-right .Message .Quotes-left{background: url('images/task_1_6_1_18.gif') no-repeat;height: 21px;width: 25px;overflow: hidden;display: block; float:left;   margin-right: 16px;}
+.section3 .se-right .Message .Quotes-right{background: url('images/task_1_6_1_22.gif') no-repeat;height: 21px;width: 25px;overflow: hidden;display: block;float:right;   margin-left: 16px;}
+#footer{max-width: 890px;    padding: 6px 45px 45px 45px;height: auto;margin: 0 auto;background-color: #fff;overflow:hidden}
+#footer p{text-align:right;height:15px;line-height:15px;    border-top: 1px solid #938E8C;}
+
+
+
+
